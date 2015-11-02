@@ -6,3 +6,12 @@ body	{
 .badge  {
     background-color:#49ab47;
 }
+
+.updatethread{
+  padding-top:10px;
+  padding-bottom:10px;
+  border-bottom:#D0D0D0 dashed 1px;
+}
+.l_first{
+    margin-left:80px;
+}
